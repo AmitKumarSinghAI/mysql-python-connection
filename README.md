@@ -39,7 +39,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/mysql-python-connection.git
+   git clone 
    https://github.com/AmitKumarSinghAI/mysql-python-connection/blob/main/mysql_py.ipynb
    ```
 2. Open the Jupyter Notebook:
