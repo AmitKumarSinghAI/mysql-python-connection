@@ -90,7 +90,6 @@ print("Connected to MySQL Server")
 Connected to MySQL Server
 Database created....
 ```
-
 ---
 
 ## 🧑‍🏫 Author
